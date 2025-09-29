@@ -16,6 +16,8 @@ if you have a video, but no captions, you can follow these 2 approaches:
 1. manually make the subtitles in a editor, like **[Aegisub](https://aegisub.org/)**
 2. automatically make subtitles using a program like **[Buzz](https://github.com/chidiwilliams/buzz/releases)**, then fix the mistakes with an editor
   
+**WARNING: CHECK IF YOUR .srt FILE IS USING THE DOT (.) AS THE DECIMAL SEPERATOR. IF IT'S SOMETHING ELSE -- LIKE A COMMA (,) -- PLEASE ALTER IT TO A DOT.**
+
 now, let's start the program!  
 ### for powershell (windows)  
   
