@@ -1,5 +1,5 @@
 print("make your own \"but every next word restarts\" video")
-print("be sure that you're running this script in powershell!")
+print("be sure that you're running this script in cmd!")
 Idx = 0
 Timeidx = 1
 local isbeginning = true
