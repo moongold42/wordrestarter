@@ -34,3 +34,5 @@ change the directory to wordrestarter using "cd path/to/wordrestarter-bash"
 type "lua main.lua"  
 and then follow the program's requests  
 you're done!  
+  
+if you just want to experiment with the program, you can just type "test.mp4" and "test.srt"
