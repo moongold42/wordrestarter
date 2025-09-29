@@ -56,6 +56,6 @@ Idx = Idx + 1
 os.execute(string.format("ffmpeg -i %s tempry/%d.mkv", video, Idx))
 os.execute(string.format(\"file tempry/%d.mkv\" >> array.txt", Idx))
 os.execute("ffmpeg -f concat -i array.txt -c:v copy -c:a copy output.mkv")
-os.execute("Remove-Item temp\* -Recurse -Force")
+os.execute("Remove-Item tempry\* -Recurse -Force")
 os.execute(\"\" > array.txt")
 
