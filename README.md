@@ -8,7 +8,7 @@ you can find out how to install them by googling something like "how to install 
 ## HOW TO INSTALL WORDRESTARTER  
 first, click the green code button and then click "download zip"  
 then, extract the zip file  
-optionally, remove the version that you're not gonna use -- bash if you're using windows, or powershell if you're using linux/macOs  
+optionally, remove the version that you're not gonna use -- bash if you're using windows, or cmd if you're using linux/macOs  
   
 ## HOW TO USE WORDRESTARTER  
 before you start, make sure that you have matching video and .srt caption files INSIDE the wordrestarter folder.  
@@ -19,10 +19,10 @@ if you have a video, but no captions, you can follow these 2 approaches:
 **WARNING: CHECK IF YOUR .srt FILE IS USING THE DOT (.) AS THE DECIMAL SEPERATOR. IF IT'S SOMETHING ELSE -- LIKE A COMMA (,) -- PLEASE ALTER IT TO A DOT.**
 
 now, let's start the program!  
-### for powershell (windows)  
+### for cmd (windows)  
   
-open the powershell terminal  
-change the directory to wordrestarter using "cd path/to/wordrestarter-powershell"  
+open the cmd terminal  
+change the directory to wordrestarter using "cd path/to/wordrestarter-cmd"  
 type "lua main.lua"  
 and then follow the program's requests  
 you're done!  
@@ -35,4 +35,5 @@ type "lua main.lua"
 and then follow the program's requests  
 you're done!  
   
-if you just want to experiment with the program, you can just type "test.mp4" and "test.srt"
+  
+**if you just want to experiment the program, you can type "test.mp4" and "test.srt"** 
