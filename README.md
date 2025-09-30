@@ -14,7 +14,9 @@ optionally, remove the version that you're not gonna use -- bash if you're using
 before you start, make sure that you have matching video and .srt caption files INSIDE the wordrestarter folder.  
 if you have a video, but no captions, you can follow these 2 approaches:  
 1. manually make the subtitles in a editor, like **[Aegisub](https://aegisub.org/)**
-2. automatically make subtitles using a program like **[Buzz](https://github.com/chidiwilliams/buzz/releases)**, then fix the mistakes with an editor
+2. automatically make subtitles using a program like **[Buzz](https://github.com/chidiwilliams/buzz/releases)**, then fix the mistakes with an editor  
+
+the subtitles have to be separated word-by-ord, with no overlap
   
 **WARNING: CHECK IF YOUR .srt FILE IS USING THE DOT (.) AS THE DECIMAL SEPERATOR. IF IT'S SOMETHING ELSE -- LIKE A COMMA (,) -- PLEASE ALTER IT TO A DOT.**
 
